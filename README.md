@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/bootcamp-testimonials-js-slider-btiMIp3q3C)
+- [Live Site URL](https://gabriel-h502.github.io/bootcamp-testimonials-slider/)
 
 ## My process
 
